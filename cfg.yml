@@ -1,0 +1,9 @@
+workingDir: /home/cc/ee106a/fa18/class/ee106a-abi/ros_workspaces/project/
+inputDir: input/
+outputDir: output/
+imgName: frame0001
+imgFormat: .jpg
+downsample: 2
+numOctaves: 3
+blackKeysPerOctave: 5
+positionTopic: note_positions

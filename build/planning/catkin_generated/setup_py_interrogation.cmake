@@ -1,0 +1,6 @@
+set(planning_SETUP_PY_VERSION "0.0.0")
+set(planning_SETUP_PY_SCRIPTS "")
+set(planning_SETUP_PY_PACKAGES "piano")
+set(planning_SETUP_PY_PACKAGE_DIRS "piano")
+set(planning_SETUP_PY_MODULES "")
+set(planning_SETUP_PY_MODULE_DIRS "")

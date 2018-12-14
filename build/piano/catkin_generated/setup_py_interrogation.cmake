@@ -1,0 +1,6 @@
+set(piano_SETUP_PY_VERSION "0.0.0")
+set(piano_SETUP_PY_SCRIPTS "")
+set(piano_SETUP_PY_PACKAGES "piano")
+set(piano_SETUP_PY_PACKAGE_DIRS "piano")
+set(piano_SETUP_PY_MODULES "")
+set(piano_SETUP_PY_MODULE_DIRS "")
